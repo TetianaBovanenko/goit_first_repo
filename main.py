@@ -1,1 +1,1 @@
-print ("A bit less dumb now")
+print ("Python Web")
