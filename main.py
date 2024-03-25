@@ -1,1 +1,1 @@
-print ("Python Web")
+print ("Python Core")
